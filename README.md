@@ -6,4 +6,4 @@ My top-5 most frequently used programming languages: JavaScript, TypeScript, C#,
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=Maiha192)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiha192)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maiha192)
